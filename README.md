@@ -7,6 +7,9 @@
 ## Programming languages
 * The rust programming language
 
+## Algorithms & Data structures
+* First course in algorithms through puzzles
+
 ## Networks
 * The wireless cookbook
 
