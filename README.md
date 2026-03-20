@@ -10,5 +10,8 @@
 ## Networks
 * The wireless cookbook
 
+## Mathematics
+* Think stats
+
 ## Emacs
 * Mastering emacs
