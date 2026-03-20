@@ -15,6 +15,7 @@
 
 ## Devops
 * Data pipelines with apache airflow
+* Kubernetes in action
 
 ## Emacs
 * Mastering emacs
