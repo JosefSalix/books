@@ -13,5 +13,8 @@
 ## Mathematics
 * Think stats
 
+## Devops
+* Data pipelines with apache airflow
+
 ## Emacs
 * Mastering emacs
